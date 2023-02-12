@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.banner-container {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(images/donation13.jpg), linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+    background-blend-mode: overlay;
+    text-align: center;
+}
+
+.banner-details {
+    position: absolute;
+    width: 826px;
+    height: 320px;
+    left: 307px;
+    top: 174px;
+
+}
+
+.heading {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+.paragraph {
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    justify-content: center;
+    align-items: center;
+    padding: 16px 12px;
+    gap: 8px;
+    background: #FF5959;
+    width: 160px;
+    height: 56px;
+    border-radius: 5px;
+    display: inline-block;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 45px;
+
+}
