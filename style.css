@@ -41,7 +41,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 16px 12px;
+    padding: 9px 12px;
     gap: 8px;
     background: #FF5959;
     width: 160px;
@@ -130,7 +130,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 16px 12px;
+    padding: 9px 12px;
     gap: 8px;
     background: #FF5959;
     width: 160px;
@@ -268,7 +268,7 @@
     background-color: #FF5959;
     border-radius: 5px;
     gap: 8px;
-    padding: 16px 12px;
+    padding: 9px 12px;
     font-size: 20px;
     font-weight: 400;
     color: #FFFFFF;
